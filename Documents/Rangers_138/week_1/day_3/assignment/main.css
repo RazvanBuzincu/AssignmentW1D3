@@ -1,0 +1,17 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #444444;
+}
+
+.row {
+    color: gold;
+}
+
+.row {
+    color: #E9AA52;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
